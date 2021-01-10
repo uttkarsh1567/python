@@ -15,4 +15,3 @@ while True:
         print(mgs)
         servermgs=input('enter mgs')
         c.send(bytes(servermgs,'utf-8'))
-
